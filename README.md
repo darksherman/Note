@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Lee from MY
 - 👀 I’m interested in learning new things everyday to help me improving my works
-- 🌱 I’m currently learning ReactJS and PHP
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: mikhaillyf@gmail.com
 
 <!---
